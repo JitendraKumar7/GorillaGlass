@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "993638115832",
+    "firebase_url": "https://gorillaglass-33bbc.firebaseio.com",
+    "project_id": "gorillaglass-33bbc",
+    "storage_bucket": "gorillaglass-33bbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993638115832:android:4c347b02ae666fda",
+        "android_client_info": {
+          "package_name": "com.gorilla.glass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993638115832-otp1fqmcuppuo7gkjgkrieh64dap78m3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gorilla.glass",
+            "certificate_hash": "5279533a376bbeebcb2d271f2710d2955c5e990f"
+          }
+        },
+        {
+          "client_id": "993638115832-72g9akvtmv8ojtbqa8rgss16ns3n5o5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9dkEEoR9iXSxYWk-vzwWhAcwNT8l0qVY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993638115832-72g9akvtmv8ojtbqa8rgss16ns3n5o5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
